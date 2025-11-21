@@ -11,3 +11,5 @@ print('Resultado =',e)
 
 f=e-b
 print('Resultado =',f)
+
+g=e-f
