@@ -8,3 +8,6 @@ print('Resultado =',d)
 
 e=c/d
 print('Resultado =',e)
+
+f=e-b
+print('Resultado =',f)
